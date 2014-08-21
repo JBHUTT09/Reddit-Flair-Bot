@@ -16,4 +16,8 @@ This is a reddit bot designed to check submission flair. It uses the PRAW librar
 * The PRAW library (found [here](https://praw.readthedocs.org/en/v2.1.16/))
 * A reddit account with moderator status on your subreddit. This account must have at least 2 link karma to function properly. [/r/freekarma](http://www.reddit.com/r/freekarma) is a great place to achieve this.
 
-###Instructions
+###Instructions  
+* Install PRAW
+* Set the username, password, and subreddit_name variables to their appropriate values
+* Change other variables if necessary
+* Run the bot!
